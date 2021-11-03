@@ -18,3 +18,10 @@ getEvenSum(10);
 //     }
 //   }
 // }
+
+let number = +prompt("enter any number");
+if(number >= 10) {
+alert(`its true`)
+} else {
+alert(`the number is false`)
+}
