@@ -151,3 +151,16 @@ for(initial condition; number of iterations)
 While(condition)
 {statements;//body}
 ```
+
+extra//
+```js
+prompt("enter a number");
+for(let i = 0; i<20; i++){
+if(i%2 == 0){
+alert("its a even number");
+}else {
+alert("its a odd number");
+}
+console.log(i);
+}
+```
